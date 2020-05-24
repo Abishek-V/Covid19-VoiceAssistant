@@ -14,7 +14,7 @@ https://github.com/Onroe/Covid19-VoiceAssistant/blob/master/Covid19_Voice_Assist
 
 
 
-##COVID DASHBOARD - Apache Superset
+##  COVID DASHBOARD - Apache Superset
 
 -Summary report of covid19 data sourced from JohnHopkins Covid dataset
 (https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports)
