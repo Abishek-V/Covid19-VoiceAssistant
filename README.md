@@ -1,5 +1,4 @@
 # Covid19-VoiceAssistant
-
 A corona-virus voice assistant that responds to corona related questions
 
 ###  Prerequisites
